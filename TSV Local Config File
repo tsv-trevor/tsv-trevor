@@ -1,0 +1,20 @@
+{
+    "ALLOWED_HOSTS": ["127.0.0.1"],
+    "CSRF_TRUSTED_ORIGINS": false,
+    "DJANGO_SECRET_KEY": ")wifv2+=h0827+)uu^c(qgy0oanfy*znt6c!m1fon+_jl#_t$#",
+    "DJANGO_DEBUG": true,
+    "DB_ENGINE": "django.db.backends.postgresql_psycopg2",
+    "DB_NAME": "tsv-v3-db-trevor",
+    "DB_USER": "tsvadmin",
+    "DB_PASSWORD": "5EJaJPlO5vehmwiYiPKD",
+    "DB_HOST": "tsv-v3-db.cnwdwz5ylis5.us-east-1.rds.amazonaws.com",
+    "DB_PORT": "5432",
+    "EMAIL_BACKEND": "django.core.mail.backends.smtp.EmailBackend",
+    "EMAIL_HOST": "smtp.gmail.com",
+    "EMAIL_HOST_USER": "admin@tsvanalytics.com",
+    "EMAIL_HOST_PASSWORD": "nojdyeyqvkayuzmo",
+    "EMAIL_PORT": 587,
+    "EMAIL_USE_TLS": true,
+    "STATIC_ROOT": false,
+    "USE_HSTS": false
+}
